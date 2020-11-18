@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Reactjs-travel-website/static/css/main.35470d64.chunk.css",
-    "main.js": "/Reactjs-travel-website/static/js/main.993f1249.chunk.js",
-    "main.js.map": "/Reactjs-travel-website/static/js/main.993f1249.chunk.js.map",
-    "runtime-main.js": "/Reactjs-travel-website/static/js/runtime-main.18dd98ec.js",
-    "runtime-main.js.map": "/Reactjs-travel-website/static/js/runtime-main.18dd98ec.js.map",
-    "static/js/2.615ff570.chunk.js": "/Reactjs-travel-website/static/js/2.615ff570.chunk.js",
-    "static/js/2.615ff570.chunk.js.map": "/Reactjs-travel-website/static/js/2.615ff570.chunk.js.map",
-    "index.html": "/Reactjs-travel-website/index.html",
-    "static/css/main.35470d64.chunk.css.map": "/Reactjs-travel-website/static/css/main.35470d64.chunk.css.map",
-    "static/js/2.615ff570.chunk.js.LICENSE.txt": "/Reactjs-travel-website/static/js/2.615ff570.chunk.js.LICENSE.txt"
+    "main.css": "/multipage_form/static/css/main.35470d64.chunk.css",
+    "main.js": "/multipage_form/static/js/main.993f1249.chunk.js",
+    "main.js.map": "/multipage_form/static/js/main.993f1249.chunk.js.map",
+    "runtime-main.js": "/multipage_form/static/js/runtime-main.dc023a27.js",
+    "runtime-main.js.map": "/multipage_form/static/js/runtime-main.dc023a27.js.map",
+    "static/js/2.615ff570.chunk.js": "/multipage_form/static/js/2.615ff570.chunk.js",
+    "static/js/2.615ff570.chunk.js.map": "/multipage_form/static/js/2.615ff570.chunk.js.map",
+    "index.html": "/multipage_form/index.html",
+    "static/css/main.35470d64.chunk.css.map": "/multipage_form/static/css/main.35470d64.chunk.css.map",
+    "static/js/2.615ff570.chunk.js.LICENSE.txt": "/multipage_form/static/js/2.615ff570.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18dd98ec.js",
+    "static/js/runtime-main.dc023a27.js",
     "static/js/2.615ff570.chunk.js",
     "static/css/main.35470d64.chunk.css",
     "static/js/main.993f1249.chunk.js"
